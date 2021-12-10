@@ -4,7 +4,7 @@ A OSINT tool to navigate through relevant posts,to find the origin of misleading
 
 This Application is made in the MANTHAN India wide Hackathon 2021(https://manthan.mic.gov.in/)
 
-[![Origin Finder V1](.\assets\video.jpg)]( https://www.youtube.com/watch?v=WYCq_Jw-KLw "Origin Finder V1")
+[<img src=".\assets\video.jpg" alt="Demo Video" />]( https://www.youtube.com/watch?v=WYCq_Jw-KLw "Origin Finder V1")
 
 
 
